@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicateGUI", "ReplicateGUI\ReplicateGUI.csproj", "{A6DC3136-D47A-4BB8-91C9-825BF35FCCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6DC3136-D47A-4BB8-91C9-825BF35FCCC6}.Debug|x86.ActiveCfg = Debug|x86
+		{A6DC3136-D47A-4BB8-91C9-825BF35FCCC6}.Debug|x86.Build.0 = Debug|x86
+		{A6DC3136-D47A-4BB8-91C9-825BF35FCCC6}.Release|x86.ActiveCfg = Release|x86
+		{A6DC3136-D47A-4BB8-91C9-825BF35FCCC6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
